@@ -1,1 +1,0 @@
-test del ordergit checkout -- file
